@@ -1,3 +1,3 @@
 # tic-tac-toe
 
-Remove the repo is not in use
+Remove this repo is not in use
